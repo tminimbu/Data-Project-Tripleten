@@ -21,3 +21,8 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | Project number | Title | Description | 
 | :-----------: | ----------- |----------- |
 |5|[Superstore](https://public.tableau.com/shared/2W9HBHXWJ?:display_count=n&:origin=viz_share_link)|SuperStore Profitability Analysis 🏬 This project aims to analyze a superstore's operations to enhance profitability and prevent bankruptcy. Key objectives include identifying the top profit and loss centers, determining which products and subcategories to stop selling or focus on, and evaluating the return on investment for advertising in specific states and months. The analysis also involves studying product return rates to understand which products and customers have the highest return rates. Various visualizations are created to support strategic recommendations and guide business decisions|
+
+| Project number | Title | Description | 
+| :-----------: | ----------- |----------- |
+|6|[Zomato sales](https://docs.google.com/document/d/1FCt7RrWaSELQUn-iH_GGQVUxJPvHhm8iugpm1m8werE/edit?usp=sharing)|Zomato Sales Analysis Project 🍽 This project focuses on a comprehensive analysis of Zomato's sales performance to identify patterns, trends, and key drivers of revenue growth. The analysis explores sales trends over time, revenue distribution across regions and menu categories, and factors influencing sales, such as promotions and customer demographics. It includes data preparation, feature engineering, and various visualizations (e.g., line charts, bar charts, pie charts, heatmaps) to effectively communicate findings. The final report provides actionable insights and recommendations to optimize sales strategies and enhance revenue growth|
+
